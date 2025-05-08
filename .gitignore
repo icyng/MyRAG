@@ -1,6 +1,7 @@
 .env/
 data/
 meta/
+trash/
 __*/
 
 .env.*
